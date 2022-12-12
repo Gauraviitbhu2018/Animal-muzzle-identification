@@ -1,0 +1,31 @@
+
+C:\Python27\python.exe gabor.py images/ppf2.png 16 --save
+C:\Python27\python.exe thining.py ppf2_enhanced.gif --save
+C:\Python27\python.exe crossing_number.py ppf2_enhanced_thinned.gif --save > out.txt>>>
+
+C:\Python27\python.exe match.py C1002 C1005 > crosstable1.txt
+C:\Python27\python.exe matrixmatch.py C1017 C1005
+C:\Python27\python.exe sobel_showcase.py images/C1002.JPG --showX
+C:\Python27\python.exe sobel_showcase.py images/C1002.JPG  --save
+
+
+red===ending..
+green== bifurcation..
+box size=6
+thinning rule based algorithm
+proposedalgorithm
+python.exe threshldada.py images/C27555.JPG  --save
+C:\Python27\python.exe mtt.py C8001 C1005 > mttcross.txt
+C:\Users\gkj\Desktop\biometrics-master>C:\Users\gkj\Anaconda2\python.exe adaptive.py images/C1001.JPG
+
+
+C:\Python27\python.exe mainmatrfin.py images/C1017.JPG 6 --save
+C:\Python27\python.exe thining.py C15008_enhanced.gif --save
+C:\Python27\python.exe crossing_number.py C15008_enhanced_thinned.gif
+
+
+
+
+
+C:\Python27\python.exe match.py C1002_enhanced_thinned C15008_enhanced_thinned
+

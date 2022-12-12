@@ -1,0 +1,83 @@
+muzzle1     muzzle2    	result
+C1001	    C1002		match
+C1001		C1003		match
+C1001		C1004		not match
+C1001	    C1005		not match
+C1001		C1006		match
+C1001		C1007		match
+C1001	    C1008		match
+C1001		C1009		match
+C1001		C1010		not match
+C2001		C2001		match
+C2001	   	C2002		match
+C2001		C2003		match
+C2001		C2004		not match
+C2001	   	C2005		match
+C2001		C2006		match
+C2001		C2007		not match
+C2001	   	C2008		match
+C2001		C2009		match
+C2001		C2010		not match
+C3001		C3001		match
+C3001	   	C3002		match
+C3001		C3003		not match
+C3001		C3004		match
+C3001    	C3005		not match
+C3001		C3006		match
+C3001		C3007		not match
+C3001	   	C3008		match
+C3001		C3009		match
+C3001		C3010		not match
+C4001		C4001		match
+C4001	   	C4002		match
+C4001		C4003		match
+C4001		C4004		match
+C4001	   	C4005		not match
+C4001		C4006		match
+C4001		C4007		not match
+C4001	   	C4008		match
+C4001		C4009		match
+C4001		C4010		not match
+C5001		C5001		match
+C5001	   	C5002		match
+C5001		C5003		match
+C5001		C5004		not match
+C5001	   	C5005		match
+C5001		C5006		not match
+C5001		C5007		not match
+C5001	   	C5008		match
+C5001		C5009		match
+C5001		C5010		not match
+C6001		C6001		match
+C6001    	C6002		not match
+C6001		C6003		match
+C6001		C6004		not match
+C6001	   	C6005		match
+C6001		C6006		match
+C6001		C6007		not match
+C6001	   	C6008		match
+C6001		C6009		match
+C6001		C6010		match
+C7001		C7001		match
+C7001	   	C7002		not match
+C7001		C7003		match
+C7001		C7004		match
+C7001	   	C7005		not match
+C7001		C7006		match
+C7001		C7007		not match
+C7001	   	C7008		match
+C7001		C7009		not match
+C7001		C7010		match
+C8001		C8001		match
+C8001	   	C8002		not match
+C8001		C8003		match
+C8001		C8004		match
+C8001	   	C8005		not match
+C8001		C8006		match
+C8001		C8007		not match
+C001	   	C8008		match
+C8001		C8009		not match
+C8001		C8010		match
+
+
+	
